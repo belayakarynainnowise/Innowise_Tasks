@@ -1,0 +1,95 @@
+[2022-09-28 18:02:16,220] {scheduler_job.py:154} INFO - Started process (PID=30400) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:02:16,222] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:02:16,222] {logging_mixin.py:112} INFO - [2022-09-28 18:02:16,222] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:02:16,225] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:02:16,256] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.036 seconds
+[2022-09-28 18:03:12,281] {scheduler_job.py:154} INFO - Started process (PID=30494) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:03:12,283] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:03:12,283] {logging_mixin.py:112} INFO - [2022-09-28 18:03:12,283] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:03:12,287] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:03:12,315] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.033 seconds
+[2022-09-28 18:04:08,349] {scheduler_job.py:154} INFO - Started process (PID=30532) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:04:08,350] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:04:08,351] {logging_mixin.py:112} INFO - [2022-09-28 18:04:08,350] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:04:08,353] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:04:08,380] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.032 seconds
+[2022-09-28 18:05:04,403] {scheduler_job.py:154} INFO - Started process (PID=30574) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:05:04,405] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:05:04,405] {logging_mixin.py:112} INFO - [2022-09-28 18:05:04,405] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:05:04,408] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:05:04,438] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.035 seconds
+[2022-09-28 18:06:00,463] {scheduler_job.py:154} INFO - Started process (PID=30613) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:06:00,468] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:06:00,468] {logging_mixin.py:112} INFO - [2022-09-28 18:06:00,468] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:06:00,472] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:06:00,525] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.062 seconds
+[2022-09-28 18:06:56,540] {scheduler_job.py:154} INFO - Started process (PID=30658) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:06:56,542] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:06:56,542] {logging_mixin.py:112} INFO - [2022-09-28 18:06:56,542] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:06:56,566] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:06:56,636] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.096 seconds
+[2022-09-28 18:07:52,599] {scheduler_job.py:154} INFO - Started process (PID=30698) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:07:52,613] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:07:52,613] {logging_mixin.py:112} INFO - [2022-09-28 18:07:52,613] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:07:52,625] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:07:52,678] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.080 seconds
+[2022-09-28 18:08:48,643] {scheduler_job.py:154} INFO - Started process (PID=30733) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:08:48,646] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:08:48,646] {logging_mixin.py:112} INFO - [2022-09-28 18:08:48,646] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:08:48,650] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:08:48,671] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.027 seconds
+[2022-09-28 18:09:44,710] {scheduler_job.py:154} INFO - Started process (PID=30769) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:09:44,713] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:09:44,713] {logging_mixin.py:112} INFO - [2022-09-28 18:09:44,713] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:09:44,718] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:09:44,778] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.068 seconds
+[2022-09-28 18:10:40,765] {scheduler_job.py:154} INFO - Started process (PID=30805) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:10:40,767] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:10:40,768] {logging_mixin.py:112} INFO - [2022-09-28 18:10:40,768] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:10:40,771] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:10:40,808] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.043 seconds
+[2022-09-28 18:11:36,819] {scheduler_job.py:154} INFO - Started process (PID=30849) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:11:36,821] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:11:36,821] {logging_mixin.py:112} INFO - [2022-09-28 18:11:36,821] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:11:36,825] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:11:36,860] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.041 seconds
+[2022-09-28 18:12:32,886] {scheduler_job.py:154} INFO - Started process (PID=30881) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:12:32,888] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:12:32,888] {logging_mixin.py:112} INFO - [2022-09-28 18:12:32,888] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:12:32,891] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:12:32,929] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.044 seconds
+[2022-09-28 18:13:28,943] {scheduler_job.py:154} INFO - Started process (PID=30914) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:13:28,945] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:13:28,946] {logging_mixin.py:112} INFO - [2022-09-28 18:13:28,946] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:13:28,949] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:13:28,984] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.041 seconds
+[2022-09-28 18:14:25,006] {scheduler_job.py:154} INFO - Started process (PID=30957) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:14:25,010] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:14:25,010] {logging_mixin.py:112} INFO - [2022-09-28 18:14:25,010] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:14:25,016] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:14:25,051] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.045 seconds
+[2022-09-28 18:15:21,075] {scheduler_job.py:154} INFO - Started process (PID=31009) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:15:21,096] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:15:21,097] {logging_mixin.py:112} INFO - [2022-09-28 18:15:21,097] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:15:21,121] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:15:21,169] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.095 seconds
+[2022-09-28 18:16:17,120] {scheduler_job.py:154} INFO - Started process (PID=31053) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:16:17,123] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:16:17,123] {logging_mixin.py:112} INFO - [2022-09-28 18:16:17,123] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:16:17,128] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:16:17,160] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.041 seconds
+[2022-09-28 18:17:13,197] {scheduler_job.py:154} INFO - Started process (PID=31109) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:17:13,203] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:17:13,203] {logging_mixin.py:112} INFO - [2022-09-28 18:17:13,203] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:17:13,206] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:17:13,256] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.059 seconds
+[2022-09-28 18:18:09,259] {scheduler_job.py:154} INFO - Started process (PID=31150) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:18:09,261] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:18:09,262] {logging_mixin.py:112} INFO - [2022-09-28 18:18:09,262] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:18:09,262] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:18:09,263] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.003 seconds
+[2022-09-28 18:19:05,351] {scheduler_job.py:154} INFO - Started process (PID=31204) to work on /home/karyna/airflow/dags/test.py
+[2022-09-28 18:19:05,353] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/test.py for tasks to queue
+[2022-09-28 18:19:05,354] {logging_mixin.py:112} INFO - [2022-09-28 18:19:05,354] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:19:05,354] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /home/karyna/airflow/dags/test.py
+[2022-09-28 18:19:05,354] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/test.py took 0.031 seconds

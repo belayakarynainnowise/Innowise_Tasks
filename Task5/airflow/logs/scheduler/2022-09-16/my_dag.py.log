@@ -1,0 +1,443 @@
+[2022-09-16 22:18:39,952] {scheduler_job.py:154} INFO - Started process (PID=13558) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:18:39,953] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:18:39,953] {logging_mixin.py:112} INFO - [2022-09-16 22:18:39,953] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:18:40,063] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:18:40,067] {logging_mixin.py:112} INFO - [2022-09-16 22:18:40,067] {dag.py:1520} INFO - Creating ORM DAG for my_dag
+[2022-09-16 22:18:40,079] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.127 seconds
+[2022-09-16 22:19:35,970] {scheduler_job.py:154} INFO - Started process (PID=13611) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:19:35,971] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:19:35,972] {logging_mixin.py:112} INFO - [2022-09-16 22:19:35,972] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:19:36,077] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:19:36,104] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.134 seconds
+[2022-09-16 22:20:31,994] {scheduler_job.py:154} INFO - Started process (PID=13649) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:20:31,996] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:20:31,996] {logging_mixin.py:112} INFO - [2022-09-16 22:20:31,996] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:20:32,133] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:20:32,180] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.185 seconds
+[2022-09-16 22:21:28,028] {scheduler_job.py:154} INFO - Started process (PID=13705) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:21:28,029] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:21:28,029] {logging_mixin.py:112} INFO - [2022-09-16 22:21:28,029] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:21:28,164] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:21:28,184] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.156 seconds
+[2022-09-16 22:21:44,238] {scheduler_job.py:154} INFO - Started process (PID=13715) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:21:44,239] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:21:44,239] {logging_mixin.py:112} INFO - [2022-09-16 22:21:44,239] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:21:44,428] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:21:44,460] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.222 seconds
+[2022-09-16 22:22:40,293] {scheduler_job.py:154} INFO - Started process (PID=13767) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:22:40,305] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:22:40,305] {logging_mixin.py:112} INFO - [2022-09-16 22:22:40,305] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:22:40,535] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:22:40,565] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.272 seconds
+[2022-09-16 22:23:49,389] {scheduler_job.py:154} INFO - Started process (PID=13805) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:23:49,397] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:23:49,397] {logging_mixin.py:112} INFO - [2022-09-16 22:23:49,397] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:23:49,528] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:23:49,557] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.169 seconds
+[2022-09-16 22:24:45,422] {scheduler_job.py:154} INFO - Started process (PID=13836) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:24:45,424] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:24:45,424] {logging_mixin.py:112} INFO - [2022-09-16 22:24:45,424] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:24:45,539] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:24:45,557] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.135 seconds
+[2022-09-16 22:25:41,454] {scheduler_job.py:154} INFO - Started process (PID=13881) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:25:41,455] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:25:41,456] {logging_mixin.py:112} INFO - [2022-09-16 22:25:41,456] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:25:41,573] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:25:41,591] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.136 seconds
+[2022-09-16 22:26:37,511] {scheduler_job.py:154} INFO - Started process (PID=13915) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:26:37,520] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:26:37,521] {logging_mixin.py:112} INFO - [2022-09-16 22:26:37,521] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:26:37,977] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:26:38,012] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.501 seconds
+[2022-09-16 22:27:33,507] {scheduler_job.py:154} INFO - Started process (PID=13955) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:27:33,509] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:27:33,509] {logging_mixin.py:112} INFO - [2022-09-16 22:27:33,509] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:27:33,717] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:27:33,748] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.241 seconds
+[2022-09-16 22:28:14,067] {scheduler_job.py:154} INFO - Started process (PID=13981) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:28:14,069] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:28:14,069] {logging_mixin.py:112} INFO - [2022-09-16 22:28:14,069] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:28:14,373] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:28:14,438] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.371 seconds
+[2022-09-16 22:29:10,087] {scheduler_job.py:154} INFO - Started process (PID=14016) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:29:10,089] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:29:10,089] {logging_mixin.py:112} INFO - [2022-09-16 22:29:10,089] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:29:10,242] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:29:10,257] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.170 seconds
+[2022-09-16 22:30:11,287] {scheduler_job.py:154} INFO - Started process (PID=14055) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:30:11,291] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:30:11,291] {logging_mixin.py:112} INFO - [2022-09-16 22:30:11,291] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:30:11,437] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:30:11,483] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.196 seconds
+[2022-09-16 22:31:07,321] {scheduler_job.py:154} INFO - Started process (PID=14091) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:31:07,323] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:31:07,323] {logging_mixin.py:112} INFO - [2022-09-16 22:31:07,323] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:31:07,454] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:31:07,472] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.151 seconds
+[2022-09-16 22:32:03,349] {scheduler_job.py:154} INFO - Started process (PID=14119) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:32:03,352] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:32:03,352] {logging_mixin.py:112} INFO - [2022-09-16 22:32:03,352] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:32:03,481] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:32:03,498] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.149 seconds
+[2022-09-16 22:32:59,382] {scheduler_job.py:154} INFO - Started process (PID=14153) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:32:59,384] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:32:59,384] {logging_mixin.py:112} INFO - [2022-09-16 22:32:59,384] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:32:59,495] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:32:59,547] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.165 seconds
+[2022-09-16 22:33:55,410] {scheduler_job.py:154} INFO - Started process (PID=14191) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:33:55,412] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:33:55,412] {logging_mixin.py:112} INFO - [2022-09-16 22:33:55,412] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:33:55,530] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:33:55,581] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.171 seconds
+[2022-09-16 22:36:13,512] {scheduler_job.py:154} INFO - Started process (PID=14262) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:36:13,514] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:36:13,514] {logging_mixin.py:112} INFO - [2022-09-16 22:36:13,514] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:36:13,623] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:36:13,656] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.144 seconds
+[2022-09-16 22:37:09,545] {scheduler_job.py:154} INFO - Started process (PID=14294) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:37:09,547] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:37:09,547] {logging_mixin.py:112} INFO - [2022-09-16 22:37:09,547] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:37:09,663] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:37:09,680] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.135 seconds
+[2022-09-16 22:38:10,863] {scheduler_job.py:154} INFO - Started process (PID=14333) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:38:10,865] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:38:10,865] {logging_mixin.py:112} INFO - [2022-09-16 22:38:10,865] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:38:10,975] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:38:10,991] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.128 seconds
+[2022-09-16 22:39:06,879] {scheduler_job.py:154} INFO - Started process (PID=14362) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:39:06,881] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:39:06,881] {logging_mixin.py:112} INFO - [2022-09-16 22:39:06,881] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:39:06,990] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:39:07,006] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.127 seconds
+[2022-09-16 22:40:02,903] {scheduler_job.py:154} INFO - Started process (PID=14404) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:40:02,905] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:40:02,905] {logging_mixin.py:112} INFO - [2022-09-16 22:40:02,905] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:40:03,024] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:40:03,064] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.161 seconds
+[2022-09-16 22:40:58,937] {scheduler_job.py:154} INFO - Started process (PID=14442) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:40:58,939] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:40:58,939] {logging_mixin.py:112} INFO - [2022-09-16 22:40:58,939] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:40:59,053] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:40:59,068] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.130 seconds
+[2022-09-16 22:41:54,960] {scheduler_job.py:154} INFO - Started process (PID=14472) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:41:54,962] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:41:54,962] {logging_mixin.py:112} INFO - [2022-09-16 22:41:54,962] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:41:55,067] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:41:55,109] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.149 seconds
+[2022-09-16 22:42:50,986] {scheduler_job.py:154} INFO - Started process (PID=14512) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:42:50,990] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:42:50,990] {logging_mixin.py:112} INFO - [2022-09-16 22:42:50,990] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:42:51,115] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:42:51,161] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.176 seconds
+[2022-09-16 22:43:47,021] {scheduler_job.py:154} INFO - Started process (PID=14551) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:43:47,023] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:43:47,023] {logging_mixin.py:112} INFO - [2022-09-16 22:43:47,023] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:43:47,148] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:43:47,164] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.143 seconds
+[2022-09-16 22:44:43,040] {scheduler_job.py:154} INFO - Started process (PID=14584) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:44:43,042] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:44:43,042] {logging_mixin.py:112} INFO - [2022-09-16 22:44:43,042] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:44:43,150] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:44:43,196] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.155 seconds
+[2022-09-16 22:45:39,066] {scheduler_job.py:154} INFO - Started process (PID=14623) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:45:39,067] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:45:39,067] {logging_mixin.py:112} INFO - [2022-09-16 22:45:39,067] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:45:39,176] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:45:39,208] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.143 seconds
+[2022-09-16 22:46:35,095] {scheduler_job.py:154} INFO - Started process (PID=14660) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:46:35,097] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:46:35,097] {logging_mixin.py:112} INFO - [2022-09-16 22:46:35,097] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:46:35,219] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:46:35,236] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.140 seconds
+[2022-09-16 22:47:31,121] {scheduler_job.py:154} INFO - Started process (PID=14693) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:47:31,123] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:47:31,123] {logging_mixin.py:112} INFO - [2022-09-16 22:47:31,123] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:47:31,232] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:47:31,273] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.152 seconds
+[2022-09-16 22:48:27,150] {scheduler_job.py:154} INFO - Started process (PID=14736) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:48:27,151] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:48:27,151] {logging_mixin.py:112} INFO - [2022-09-16 22:48:27,151] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:48:27,267] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:48:27,296] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.146 seconds
+[2022-09-16 22:49:23,185] {scheduler_job.py:154} INFO - Started process (PID=14773) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:49:23,186] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:49:23,186] {logging_mixin.py:112} INFO - [2022-09-16 22:49:23,186] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:49:23,296] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:49:23,312] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.127 seconds
+[2022-09-16 22:50:19,208] {scheduler_job.py:154} INFO - Started process (PID=14810) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:50:19,210] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:50:19,210] {logging_mixin.py:112} INFO - [2022-09-16 22:50:19,210] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:50:19,319] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:50:19,347] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.139 seconds
+[2022-09-16 22:51:15,262] {scheduler_job.py:154} INFO - Started process (PID=14840) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:51:15,271] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:51:15,271] {logging_mixin.py:112} INFO - [2022-09-16 22:51:15,271] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:51:15,521] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:51:15,565] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.303 seconds
+[2022-09-16 22:52:11,277] {scheduler_job.py:154} INFO - Started process (PID=14883) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:52:11,278] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:52:11,279] {logging_mixin.py:112} INFO - [2022-09-16 22:52:11,279] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:52:11,400] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:52:11,417] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.140 seconds
+[2022-09-16 22:53:07,302] {scheduler_job.py:154} INFO - Started process (PID=14917) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:53:07,304] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:53:07,304] {logging_mixin.py:112} INFO - [2022-09-16 22:53:07,304] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:53:07,421] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:53:07,455] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.153 seconds
+[2022-09-16 22:54:03,328] {scheduler_job.py:154} INFO - Started process (PID=14954) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:54:03,330] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:54:03,330] {logging_mixin.py:112} INFO - [2022-09-16 22:54:03,330] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:54:03,445] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:54:03,474] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.146 seconds
+[2022-09-16 22:54:59,368] {scheduler_job.py:154} INFO - Started process (PID=14990) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:54:59,370] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:54:59,370] {logging_mixin.py:112} INFO - [2022-09-16 22:54:59,370] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:54:59,535] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:54:59,563] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.195 seconds
+[2022-09-16 22:55:55,389] {scheduler_job.py:154} INFO - Started process (PID=15027) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:55:55,392] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:55:55,392] {logging_mixin.py:112} INFO - [2022-09-16 22:55:55,392] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:55:55,495] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:55:55,522] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.133 seconds
+[2022-09-16 22:56:51,415] {scheduler_job.py:154} INFO - Started process (PID=15079) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:56:51,417] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:56:51,417] {logging_mixin.py:112} INFO - [2022-09-16 22:56:51,417] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:56:51,533] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:56:51,580] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.165 seconds
+[2022-09-16 22:57:47,453] {scheduler_job.py:154} INFO - Started process (PID=15119) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:57:47,455] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:57:47,459] {logging_mixin.py:112} INFO - [2022-09-16 22:57:47,459] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:57:47,681] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:57:47,730] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 22:57:47,764] {scheduler_job.py:1315} INFO - Created <DagRun my_dag @ 2022-09-16 00:00:00+00:00: scheduled__2022-09-16T00:00:00+00:00, externally triggered: False>
+[2022-09-16 22:57:47,766] {scheduler_job.py:771} INFO - Examining DAG run <DagRun my_dag @ 2022-09-16 00:00:00+00:00: scheduled__2022-09-16T00:00:00+00:00, externally triggered: False>
+[2022-09-16 22:57:47,781] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 22:57:47,783] {scheduler_job.py:1668} INFO - Creating / updating <TaskInstance: my_dag.extract_data 2022-09-16 00:00:00+00:00 [scheduled]> in ORM
+[2022-09-16 22:57:47,792] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.339 seconds
+[2022-09-16 22:58:48,726] {scheduler_job.py:154} INFO - Started process (PID=15154) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:58:48,740] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:58:48,740] {logging_mixin.py:112} INFO - [2022-09-16 22:58:48,740] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:58:49,794] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:58:49,894] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 22:58:49,910] {scheduler_job.py:771} INFO - Examining DAG run <DagRun my_dag @ 2022-09-16 00:00:00+00:00: scheduled__2022-09-16T00:00:00+00:00, externally triggered: False>
+[2022-09-16 22:58:49,946] {scheduler_job.py:771} INFO - Examining DAG run <DagRun my_dag @ 2022-09-16 19:58:49.282733+00:00: manual__2022-09-16T19:58:49.282733+00:00, externally triggered: True>
+[2022-09-16 22:58:50,089] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 22:58:50,106] {scheduler_job.py:1668} INFO - Creating / updating <TaskInstance: my_dag.extract_data 2022-09-16 19:58:49.282733+00:00 [scheduled]> in ORM
+[2022-09-16 22:58:50,128] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 1.402 seconds
+[2022-09-16 22:59:50,117] {scheduler_job.py:154} INFO - Started process (PID=15194) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:59:50,119] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 22:59:50,119] {logging_mixin.py:112} INFO - [2022-09-16 22:59:50,119] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:59:50,267] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 22:59:50,285] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 22:59:50,289] {scheduler_job.py:771} INFO - Examining DAG run <DagRun my_dag @ 2022-09-16 00:00:00+00:00: scheduled__2022-09-16T00:00:00+00:00, externally triggered: False>
+[2022-09-16 22:59:50,293] {logging_mixin.py:112} INFO - [2022-09-16 22:59:50,293] {dagrun.py:311} INFO - Marking run <DagRun my_dag @ 2022-09-16 00:00:00+00:00: scheduled__2022-09-16T00:00:00+00:00, externally triggered: False> failed
+[2022-09-16 22:59:50,300] {scheduler_job.py:771} INFO - Examining DAG run <DagRun my_dag @ 2022-09-16 19:58:49.282733+00:00: manual__2022-09-16T19:58:49.282733+00:00, externally triggered: True>
+[2022-09-16 22:59:50,329] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 22:59:50,330] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.213 seconds
+[2022-09-16 23:00:46,164] {scheduler_job.py:154} INFO - Started process (PID=15228) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:00:46,177] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:00:46,178] {logging_mixin.py:112} INFO - [2022-09-16 23:00:46,177] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:00:46,561] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:00:46,598] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:00:46,628] {scheduler_job.py:771} INFO - Examining DAG run <DagRun my_dag @ 2022-09-16 19:58:49.282733+00:00: manual__2022-09-16T19:58:49.282733+00:00, externally triggered: True>
+[2022-09-16 23:00:46,633] {logging_mixin.py:112} INFO - [2022-09-16 23:00:46,633] {dagrun.py:311} INFO - Marking run <DagRun my_dag @ 2022-09-16 19:58:49.282733+00:00: manual__2022-09-16T19:58:49.282733+00:00, externally triggered: True> failed
+[2022-09-16 23:00:46,641] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:00:46,643] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.479 seconds
+[2022-09-16 23:01:42,175] {scheduler_job.py:154} INFO - Started process (PID=15256) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:01:42,177] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:01:42,177] {logging_mixin.py:112} INFO - [2022-09-16 23:01:42,177] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:01:42,367] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:01:42,417] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:01:42,422] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:01:42,423] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.248 seconds
+[2022-09-16 23:02:38,229] {scheduler_job.py:154} INFO - Started process (PID=15295) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:02:38,236] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:02:38,236] {logging_mixin.py:112} INFO - [2022-09-16 23:02:38,236] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:02:38,689] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:02:38,771] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:02:38,798] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:02:38,803] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.574 seconds
+[2022-09-16 23:04:00,458] {scheduler_job.py:154} INFO - Started process (PID=15363) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:04:00,461] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:04:00,462] {logging_mixin.py:112} INFO - [2022-09-16 23:04:00,462] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:04:01,444] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:04:01,471] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:04:01,477] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:04:01,480] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 1.021 seconds
+[2022-09-16 23:04:56,502] {scheduler_job.py:154} INFO - Started process (PID=15393) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:04:56,504] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:04:56,504] {logging_mixin.py:112} INFO - [2022-09-16 23:04:56,504] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:04:57,139] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:04:57,223] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:04:57,243] {scheduler_job.py:771} INFO - Examining DAG run <DagRun my_dag @ 2022-09-16 20:04:32.545268+00:00: manual__2022-09-16T20:04:32.545268+00:00, externally triggered: True>
+[2022-09-16 23:04:57,280] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:04:57,285] {scheduler_job.py:1668} INFO - Creating / updating <TaskInstance: my_dag.extract_data 2022-09-16 20:04:32.545268+00:00 [scheduled]> in ORM
+[2022-09-16 23:04:57,295] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.793 seconds
+[2022-09-16 23:05:57,790] {scheduler_job.py:154} INFO - Started process (PID=15444) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:05:57,805] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:05:57,809] {logging_mixin.py:112} INFO - [2022-09-16 23:05:57,809] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:05:58,599] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:05:58,709] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:05:58,752] {scheduler_job.py:771} INFO - Examining DAG run <DagRun my_dag @ 2022-09-16 20:04:32.545268+00:00: manual__2022-09-16T20:04:32.545268+00:00, externally triggered: True>
+[2022-09-16 23:05:58,843] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:05:58,869] {scheduler_job.py:1668} INFO - Creating / updating <TaskInstance: my_dag.transform_data 2022-09-16 20:04:32.545268+00:00 [scheduled]> in ORM
+[2022-09-16 23:05:58,887] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 1.097 seconds
+[2022-09-16 23:06:59,309] {scheduler_job.py:154} INFO - Started process (PID=15477) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:06:59,311] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:06:59,311] {logging_mixin.py:112} INFO - [2022-09-16 23:06:59,311] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:06:59,451] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:06:59,470] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:06:59,473] {scheduler_job.py:771} INFO - Examining DAG run <DagRun my_dag @ 2022-09-16 20:04:32.545268+00:00: manual__2022-09-16T20:04:32.545268+00:00, externally triggered: True>
+[2022-09-16 23:06:59,485] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:06:59,487] {scheduler_job.py:1668} INFO - Creating / updating <TaskInstance: my_dag.load_data 2022-09-16 20:04:32.545268+00:00 [scheduled]> in ORM
+[2022-09-16 23:06:59,497] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.188 seconds
+[2022-09-16 23:08:00,620] {scheduler_job.py:154} INFO - Started process (PID=15525) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:08:00,628] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:08:00,629] {logging_mixin.py:112} INFO - [2022-09-16 23:08:00,629] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:08:00,930] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:08:00,994] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:08:01,014] {scheduler_job.py:771} INFO - Examining DAG run <DagRun my_dag @ 2022-09-16 20:04:32.545268+00:00: manual__2022-09-16T20:04:32.545268+00:00, externally triggered: True>
+[2022-09-16 23:08:01,031] {logging_mixin.py:112} INFO - [2022-09-16 23:08:01,031] {dagrun.py:311} INFO - Marking run <DagRun my_dag @ 2022-09-16 20:04:32.545268+00:00: manual__2022-09-16T20:04:32.545268+00:00, externally triggered: True> failed
+[2022-09-16 23:08:01,046] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:08:01,050] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.433 seconds
+[2022-09-16 23:08:56,634] {scheduler_job.py:154} INFO - Started process (PID=15558) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:08:56,636] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:08:56,636] {logging_mixin.py:112} INFO - [2022-09-16 23:08:56,636] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:08:56,768] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:08:56,806] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:08:56,810] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:08:56,811] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.177 seconds
+[2022-09-16 23:09:52,716] {scheduler_job.py:154} INFO - Started process (PID=15587) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:09:52,725] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:09:52,725] {logging_mixin.py:112} INFO - [2022-09-16 23:09:52,725] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:09:52,897] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:09:52,916] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:09:52,921] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:09:52,922] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.206 seconds
+[2022-09-16 23:10:48,702] {scheduler_job.py:154} INFO - Started process (PID=15622) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:10:48,703] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:10:48,703] {logging_mixin.py:112} INFO - [2022-09-16 23:10:48,703] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:10:49,080] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:10:49,171] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:10:49,194] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:10:49,209] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.507 seconds
+[2022-09-16 23:11:44,734] {scheduler_job.py:154} INFO - Started process (PID=15652) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:11:44,736] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:11:44,736] {logging_mixin.py:112} INFO - [2022-09-16 23:11:44,736] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:11:44,875] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:11:44,909] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:11:44,914] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:11:44,915] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.183 seconds
+[2022-09-16 23:12:40,755] {scheduler_job.py:154} INFO - Started process (PID=15682) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:12:40,756] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:12:40,756] {logging_mixin.py:112} INFO - [2022-09-16 23:12:40,756] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:12:41,202] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:12:41,276] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:12:41,283] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:12:41,285] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.530 seconds
+[2022-09-16 23:13:36,789] {scheduler_job.py:154} INFO - Started process (PID=15714) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:13:36,791] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:13:36,791] {logging_mixin.py:112} INFO - [2022-09-16 23:13:36,791] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:13:37,047] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:13:37,083] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:13:37,088] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:13:37,092] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.303 seconds
+[2022-09-16 23:14:32,815] {scheduler_job.py:154} INFO - Started process (PID=15743) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:14:32,816] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:14:32,816] {logging_mixin.py:112} INFO - [2022-09-16 23:14:32,816] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:14:32,950] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:14:32,981] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:14:32,985] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:14:32,986] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.171 seconds
+[2022-09-16 23:15:28,844] {scheduler_job.py:154} INFO - Started process (PID=15786) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:15:28,845] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:15:28,845] {logging_mixin.py:112} INFO - [2022-09-16 23:15:28,845] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:15:28,975] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:15:29,008] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:15:29,012] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:15:29,014] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.170 seconds
+[2022-09-16 23:16:24,877] {scheduler_job.py:154} INFO - Started process (PID=15816) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:16:24,878] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:16:24,878] {logging_mixin.py:112} INFO - [2022-09-16 23:16:24,878] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:16:25,014] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:16:25,031] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:16:25,035] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:16:25,036] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.159 seconds
+[2022-09-16 23:17:20,899] {scheduler_job.py:154} INFO - Started process (PID=15862) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:17:20,901] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:17:20,901] {logging_mixin.py:112} INFO - [2022-09-16 23:17:20,901] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:17:21,032] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:17:21,057] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:17:21,061] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:17:21,062] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.163 seconds
+[2022-09-16 23:18:16,927] {scheduler_job.py:154} INFO - Started process (PID=15894) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:18:16,929] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:18:16,929] {logging_mixin.py:112} INFO - [2022-09-16 23:18:16,929] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:18:17,062] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:18:17,112] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:18:17,117] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:18:17,118] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.191 seconds
+[2022-09-16 23:19:12,959] {scheduler_job.py:154} INFO - Started process (PID=15923) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:19:12,961] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:19:12,961] {logging_mixin.py:112} INFO - [2022-09-16 23:19:12,961] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:19:13,096] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:19:13,113] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:19:13,117] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:19:13,120] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.161 seconds
+[2022-09-16 23:20:08,979] {scheduler_job.py:154} INFO - Started process (PID=15958) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:20:08,980] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:20:08,981] {logging_mixin.py:112} INFO - [2022-09-16 23:20:08,981] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:20:09,150] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:20:09,204] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:20:09,210] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:20:09,212] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.233 seconds
+[2022-09-16 23:21:05,012] {scheduler_job.py:154} INFO - Started process (PID=15989) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:21:05,013] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:21:05,014] {logging_mixin.py:112} INFO - [2022-09-16 23:21:05,014] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:21:05,147] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:21:05,185] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:21:05,189] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:21:05,191] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.178 seconds
+[2022-09-16 23:22:01,036] {scheduler_job.py:154} INFO - Started process (PID=16018) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:22:01,038] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:22:01,038] {logging_mixin.py:112} INFO - [2022-09-16 23:22:01,038] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:22:01,177] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:22:01,195] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:22:01,200] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:22:01,201] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.165 seconds
+[2022-09-16 23:22:57,060] {scheduler_job.py:154} INFO - Started process (PID=16051) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:22:57,061] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:22:57,062] {logging_mixin.py:112} INFO - [2022-09-16 23:22:57,061] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:22:57,221] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:22:57,252] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:22:57,258] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:22:57,259] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.200 seconds
+[2022-09-16 23:23:53,096] {scheduler_job.py:154} INFO - Started process (PID=16099) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:23:53,098] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:23:53,098] {logging_mixin.py:112} INFO - [2022-09-16 23:23:53,098] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:23:53,250] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:23:53,287] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:23:53,292] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:23:53,293] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.197 seconds
+[2022-09-16 23:24:49,135] {scheduler_job.py:154} INFO - Started process (PID=16136) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:24:49,137] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:24:49,137] {logging_mixin.py:112} INFO - [2022-09-16 23:24:49,137] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:24:49,274] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:24:49,292] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:24:49,296] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:24:49,297] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.162 seconds
+[2022-09-16 23:25:45,157] {scheduler_job.py:154} INFO - Started process (PID=16173) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:25:45,158] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:25:45,159] {logging_mixin.py:112} INFO - [2022-09-16 23:25:45,158] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:25:45,289] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:25:45,329] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:25:45,334] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:25:45,335] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.178 seconds
+[2022-09-16 23:26:41,182] {scheduler_job.py:154} INFO - Started process (PID=16205) to work on /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:26:41,184] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/my_dag.py for tasks to queue
+[2022-09-16 23:26:41,184] {logging_mixin.py:112} INFO - [2022-09-16 23:26:41,184] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:26:41,329] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /home/karyna/airflow/dags/my_dag.py
+[2022-09-16 23:26:41,367] {scheduler_job.py:1305} INFO - Processing my_dag
+[2022-09-16 23:26:41,373] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: my_dag> because no tasks in DAG have SLAs
+[2022-09-16 23:26:41,374] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/my_dag.py took 0.192 seconds
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

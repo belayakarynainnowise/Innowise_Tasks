@@ -1,0 +1,129 @@
+[2022-09-28 18:02:36,241] {scheduler_job.py:154} INFO - Started process (PID=30444) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:02:36,243] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:02:36,243] {logging_mixin.py:112} INFO - [2022-09-28 18:02:36,243] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:02:36,277] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:02:36,312] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:02:36,316] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:02:36,319] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.077 seconds
+[2022-09-28 18:03:32,312] {scheduler_job.py:154} INFO - Started process (PID=30506) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:03:32,314] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:03:32,315] {logging_mixin.py:112} INFO - [2022-09-28 18:03:32,315] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:03:32,381] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:03:32,402] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:03:32,406] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:03:32,408] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.096 seconds
+[2022-09-28 18:04:28,375] {scheduler_job.py:154} INFO - Started process (PID=30549) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:04:28,377] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:04:28,377] {logging_mixin.py:112} INFO - [2022-09-28 18:04:28,377] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:04:28,426] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:04:28,458] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:04:28,465] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:04:28,472] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.097 seconds
+[2022-09-28 18:05:24,440] {scheduler_job.py:154} INFO - Started process (PID=30590) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:05:24,442] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:05:24,443] {logging_mixin.py:112} INFO - [2022-09-28 18:05:24,443] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:05:24,572] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:05:24,643] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:05:24,664] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:05:24,674] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.234 seconds
+[2022-09-28 18:06:20,489] {scheduler_job.py:154} INFO - Started process (PID=30625) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:06:20,492] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:06:20,492] {logging_mixin.py:112} INFO - [2022-09-28 18:06:20,492] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:06:20,529] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:06:20,548] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:06:20,554] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:06:20,555] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.066 seconds
+[2022-09-28 18:07:16,559] {scheduler_job.py:154} INFO - Started process (PID=30673) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:07:16,561] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:07:16,562] {logging_mixin.py:112} INFO - [2022-09-28 18:07:16,562] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:07:16,607] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:07:16,646] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:07:16,653] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:07:16,656] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.097 seconds
+[2022-09-28 18:08:12,608] {scheduler_job.py:154} INFO - Started process (PID=30711) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:08:12,610] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:08:12,610] {logging_mixin.py:112} INFO - [2022-09-28 18:08:12,610] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:08:12,640] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:08:12,678] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:08:12,683] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:08:12,684] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.076 seconds
+[2022-09-28 18:09:08,675] {scheduler_job.py:154} INFO - Started process (PID=30746) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:09:08,678] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:09:08,678] {logging_mixin.py:112} INFO - [2022-09-28 18:09:08,678] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:09:08,719] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:09:08,765] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:09:08,771] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:09:08,772] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.097 seconds
+[2022-09-28 18:10:04,726] {scheduler_job.py:154} INFO - Started process (PID=30780) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:10:04,728] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:10:04,728] {logging_mixin.py:112} INFO - [2022-09-28 18:10:04,728] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:10:04,758] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:10:04,811] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:10:04,816] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:10:04,819] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.093 seconds
+[2022-09-28 18:11:00,786] {scheduler_job.py:154} INFO - Started process (PID=30825) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:11:00,788] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:11:00,789] {logging_mixin.py:112} INFO - [2022-09-28 18:11:00,789] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:11:00,826] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:11:00,849] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:11:00,863] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:11:00,866] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.079 seconds
+[2022-09-28 18:11:56,885] {scheduler_job.py:154} INFO - Started process (PID=30859) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:11:56,888] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:11:56,888] {logging_mixin.py:112} INFO - [2022-09-28 18:11:56,888] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:11:56,927] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:11:56,955] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:11:56,962] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:11:56,963] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.078 seconds
+[2022-09-28 18:12:52,903] {scheduler_job.py:154} INFO - Started process (PID=30893) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:12:52,905] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:12:52,905] {logging_mixin.py:112} INFO - [2022-09-28 18:12:52,905] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:12:52,935] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:12:52,957] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:12:52,962] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:12:52,964] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.061 seconds
+[2022-09-28 18:13:48,969] {scheduler_job.py:154} INFO - Started process (PID=30929) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:13:48,970] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:13:48,971] {logging_mixin.py:112} INFO - [2022-09-28 18:13:48,970] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:13:49,008] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:13:49,047] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:13:49,054] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:13:49,056] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.088 seconds
+[2022-09-28 18:14:45,026] {scheduler_job.py:154} INFO - Started process (PID=30977) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:14:45,028] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:14:45,028] {logging_mixin.py:112} INFO - [2022-09-28 18:14:45,028] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:14:45,067] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:14:45,092] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:14:45,101] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:14:45,102] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.076 seconds
+[2022-09-28 18:15:41,075] {scheduler_job.py:154} INFO - Started process (PID=31025) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:15:41,079] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:15:41,080] {logging_mixin.py:112} INFO - [2022-09-28 18:15:41,080] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:15:41,111] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:15:41,158] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:15:41,162] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:15:41,163] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.088 seconds
+[2022-09-28 18:16:37,147] {scheduler_job.py:154} INFO - Started process (PID=31064) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:16:37,149] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:16:37,149] {logging_mixin.py:112} INFO - [2022-09-28 18:16:37,149] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:16:37,184] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:16:37,235] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:16:37,239] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:16:37,241] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.094 seconds
+[2022-09-28 18:17:33,237] {scheduler_job.py:154} INFO - Started process (PID=31119) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:17:33,238] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:17:33,239] {logging_mixin.py:112} INFO - [2022-09-28 18:17:33,238] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:17:33,269] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['mongo_dag']) retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:17:33,294] {scheduler_job.py:1305} INFO - Processing mongo_dag
+[2022-09-28 18:17:33,299] {scheduler_job.py:459} INFO - Skipping SLA check for <DAG: mongo_dag> because no tasks in DAG have SLAs
+[2022-09-28 18:17:33,301] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.064 seconds
+[2022-09-28 18:18:29,279] {scheduler_job.py:154} INFO - Started process (PID=31165) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:18:29,281] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:18:29,281] {logging_mixin.py:112} INFO - [2022-09-28 18:18:29,281] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:18:29,282] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:18:29,282] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.003 seconds
+[2022-09-28 18:19:25,344] {scheduler_job.py:154} INFO - Started process (PID=31268) to work on /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:19:25,346] {scheduler_job.py:1589} INFO - Processing file /home/karyna/airflow/dags/mongotest.py for tasks to queue
+[2022-09-28 18:19:25,346] {logging_mixin.py:112} INFO - [2022-09-28 18:19:25,346] {dagbag.py:417} INFO - Filling up the DagBag from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:19:25,346] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /home/karyna/airflow/dags/mongotest.py
+[2022-09-28 18:19:25,347] {scheduler_job.py:162} INFO - Processing /home/karyna/airflow/dags/mongotest.py took 0.003 seconds

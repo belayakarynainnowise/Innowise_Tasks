@@ -1,0 +1,4 @@
+UPDATE STAGE_TABLE SET "Original_Release_Date" = NULL WHERE "Original_Release_Date" ='0000-00-00T00:00:00Z';
+UPDATE STAGE_TABLE SET "Current_Version_Release_Date" = NULL WHERE "Current_Version_Release_Date" ='0000-00-00T00:00:00Z';
+UPDATE STAGE_TABLE SET "Languages" =trim(REPLACE("Languages", '\'', ''), '[] ')  WHERE "Languages" is not null;
+UPDATE STAGE_TABLE SET "All_Genres" =trim(REPLACE("All_Genres", '\'', ''), '[] ')  WHERE "All_Genres" is not null;
